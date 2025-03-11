@@ -9,6 +9,13 @@ Team name: junc, handle: jubinchoi, Leaderboard score: 0.82024
 I used LightGBM, XGBoost, and AutoGluon for predicting the binary classifcation task.
 Within that, I employed Optuna for hyperparameter optimization. 
 
-There are two versions of Jupyter Notebook
+Higgs_Boson_Report: The task report for this assignment
+
+There are two versions of Jupyter Notebooks:  
+Higgs_Boson.ipynb: 
+- Output remained on the file
+Higgs_Boson_Clear_Output.ipnyb:
+- Output is cleared because the outputs are expanded in GitHub (it's extremely long that unable to properly read it). Thus, cleared outputs version notebook.
+
 
 To run the code, check install_requirements.txt for configuration.
