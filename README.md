@@ -9,4 +9,6 @@ Team name: junc, handle: jubinchoi, Leaderboard score: 0.82024
 I used LightGBM, XGBoost, and AutoGluon for predicting the binary classifcation task.
 Within that, I employed Optuna for hyperparameter optimization. 
 
+There are two versions of Jupyter Notebook
+
 To run the code, check install_requirements.txt for configuration.
