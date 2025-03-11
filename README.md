@@ -9,7 +9,8 @@ Team name: junc, handle: jubinchoi
 I used LightGBM, XGBoost, and AutoGluon for predicting the binary classifcation task.
 Within that, I employed Optuna for hyperparameter optimization. 
 
-Higgs_Boson_Report: The task report for this assignment
+Higgs_Boson_Report:  
+- The task report for this assignment  
 
 There are two versions of Jupyter Notebooks:  
 Higgs_Boson.ipynb: 
