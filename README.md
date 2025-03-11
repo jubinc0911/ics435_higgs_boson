@@ -2,9 +2,10 @@
 
 This is a solution for Higg's Boson Kaggle competition.
 
+[URL: https://www.kaggle.com/competitions/higgs-spring-2024/overview](https://www.kaggle.com/competitions/higgs-boson-detection-2025/overview)
+
 Team name: junc, handle: jubinchoi
 
-[URL: https://www.kaggle.com/competitions/higgs-spring-2024/overview](https://www.kaggle.com/competitions/higgs-boson-detection-2025/overview)
 
 I used LightGBM, XGBoost, and AutoGluon for predicting the binary classifcation task.
 Within that, I employed Optuna for hyperparameter optimization. 
