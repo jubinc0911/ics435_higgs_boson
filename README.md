@@ -13,7 +13,7 @@ Higgs_Boson_Report: The task report for this assignment
 
 There are two versions of Jupyter Notebooks:  
 Higgs_Boson.ipynb: 
-- Output remained on the file
+- Output remained on the file  
 Higgs_Boson_Clear_Output.ipnyb:
 - Output is cleared because the outputs are expanded in GitHub (it's extremely long that unable to properly read it). Thus, cleared outputs version notebook.
 
